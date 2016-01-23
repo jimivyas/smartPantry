@@ -1,0 +1,2 @@
+# smartpantry
+redirect to SmartPantry
