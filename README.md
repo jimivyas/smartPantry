@@ -1,2 +1,2 @@
 # smartpantry
-redirect to SmartPantry
+This is a redirect to SmartPantry :(
